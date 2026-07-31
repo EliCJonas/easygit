@@ -1,4 +1,4 @@
-<h1 align="center">easygit</h1>
+# <p align="center">easygit</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Available_for-Auro-4c1" alt="Available for Auro" />
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>A quick, streamlined way to stage, commit, and push changes in Git.</b>
+  <i>A quick, streamlined way to stage, commit, and push changes in Git.</i>
 </p>
 
 ---
